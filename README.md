@@ -3,7 +3,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
 
-Ultra-simple foundation to create a SaaS with authentication and subscription management.
+Ultra-simple foundation to create a SaaS that give API token with authentication and subscription management.
 
 ![SaaS Starter Demo](SOON)
 
