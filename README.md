@@ -141,11 +141,11 @@ Contributions are welcome! See the [contribution guide](CONTRIBUTING.md).
 - [ ] Admin dashboard
 - [ ] Rate limiting
 - [ ] Analytics
-- [ ] Multi-language (i18n)
+- [ ] add more languages (i18n)
 - [ ] E2E tests
 - [ ] And more...
 
-See all [open issues](https://github.com/YOUR-USERNAME/saas-starter/issues).
+See all [open issues](https://github.com/thierry-sudan/saas-starter/issues).
 
 ## 📄 License
 
