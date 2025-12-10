@@ -5,7 +5,7 @@
 
 Ultra-simple foundation to create a SaaS with authentication and subscription management.
 
-![SaaS Starter Demo](https://via.placeholder.com/800x400?text=SaaS+Starter+Demo)
+![SaaS Starter Demo](SOON)
 
 ## ✨ Features
 
@@ -62,12 +62,12 @@ cp .env.local.example .env.local
 
 ### Quick Setup (5 minutes)
 
-1. **Firebase** - [Detailed Guide](QUICKSTART.md#2️⃣-configuration-firebase-2-min)
+1. **Firebase** - 
    - Create a project
    - Enable Authentication (Email + Google)
    - Create a Firestore database
 
-2. **Stripe** - [Detailed Guide](QUICKSTART.md#3️⃣-configuration-stripe-2-min)
+2. **Stripe** - 
    - Create 3 products with subscriptions
    - Get the price_id values
    - Configure the webhook
