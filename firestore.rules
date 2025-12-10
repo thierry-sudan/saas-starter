@@ -1,0 +1,21 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Règles pour la collection users
+    match /users/{userId} {
+      // L'utilisateur peut lire ses propres données
+      allow read: if request.auth != null && request.auth.uid == userId;
+      
+      // L'utilisateur peut créer son document lors de l'inscription
+      allow create: if request.auth != null && request.auth.uid == userId;
+      
+      // L'utilisateur peut modifier firstName et lastName SEULEMENT si provider != 'google'
+      // Ne peut pas modifier : plan, stripe, email, createdAt, provider
+      allow update: if request.auth != null 
+                    && request.auth.uid == userId
+                    && !request.resource.data.diff(resource.data).affectedKeys()
+                      .hasAny(['plan', 'stripeCustomerId', 'stripeSubscriptionId', 'subscriptionStatus', 'email', 'createdAt', 'provider'])
+                    && (resource.data.provider != 'google' || !request.resource.data.diff(resource.data).affectedKeys().hasAny(['firstName', 'lastName']));
+    }
+  }
+}

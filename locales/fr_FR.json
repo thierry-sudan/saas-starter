@@ -1,0 +1,160 @@
+{
+  "common": {
+    "hello": "Bonjour",
+    "welcome": "Bienvenue",
+    "logout": "Déconnexion",
+    "profile": "Profil",
+    "dashboard": "Dashboard",
+    "loading": "Chargement...",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "edit": "Modifier",
+    "saving": "Enregistrement...",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom"
+  },
+  "currency": {
+    "select": "Choisir la devise",
+    "current": "Devise",
+    "eur": "Euro (€)",
+    "usd": "Dollar ($)",
+    "locked": "Devise verrouillée après souscription"
+  },
+  "nav": {
+    "myProfile": "Mon Profil",
+    "myDashboard": "Mon Dashboard"
+  },
+  "auth": {
+    "login": "Connexion",
+    "signup": "Inscription",
+    "loginTitle": "Connexion",
+    "signupTitle": "Inscription",
+    "loginSubtitle": "Connectez-vous à votre compte",
+    "signupSubtitle": "Créez votre compte gratuitement",
+    "signIn": "Se connecter",
+    "createAccount": "Créer mon compte",
+    "noAccount": "Pas encore de compte ?",
+    "hasAccount": "Déjà un compte ?",
+    "orContinueWith": "Ou continuer avec",
+    "google": "Google",
+    "loggingIn": "Connexion...",
+    "creating": "Création...",
+    "passwordMismatch": "Les mots de passe ne correspondent pas",
+    "passwordTooShort": "Le mot de passe doit contenir au moins 6 caractères",
+    "loginError": "Erreur de connexion",
+    "signupError": "Erreur lors de l'inscription",
+    "googleError": "Erreur de connexion avec Google"
+  },
+  "profile": {
+    "title": "Mon Profil",
+    "personalInfo": "Informations personnelles",
+    "subscription": "Abonnement",
+    "currentPlan": "Plan actuel",
+    "status": "Statut",
+    "price": "Prix",
+    "choosePlan": "Choisir un plan",
+    "manageSubscription": "Gérer mon abonnement",
+    "apiKey": "Clé API",
+    "apiKeyDescription": "Utilisez cette clé pour accéder à l'API",
+    "notProvided": "Non renseigné",
+    "googleSyncMessage": "Ces informations sont synchronisées avec votre compte Google et ne peuvent pas être modifiées ici.",
+    "profileUpdated": "Profil mis à jour avec succès",
+    "updateError": "Erreur lors de la mise à jour",
+    "perMonth": "/mois",
+    "free": "Gratuit"
+  },
+  "subscription": {
+    "status": {
+      "active": "✅ Actif",
+      "canceled": "❌ Annulé",
+      "past_due": "⚠️ Paiement en retard",
+      "trialing": "🎁 Période d'essai"
+    },
+    "plans": {
+      "free": "Gratuit",
+      "simple": "Simple",
+      "premium": "Premium",
+      "pro": "Pro"
+    }
+  },
+  "dashboard": {
+    "title": "Mon Dashboard",
+    "currentPlan": "Plan actuel :",
+    "subscriptionPlans": "Plans d'abonnement",
+    "currentPlanBadge": "Plan actuel",
+    "subscribe": "Souscrire",
+    "apiKey": "Clé API",
+    "apiKeyDescription": "Utilisez cette clé pour accéder à l'API"
+  },
+  "plans": {
+    "simple": {
+      "name": "Simple",
+      "features": {
+        "api": "Accès API basique",
+        "requests": "1 000 requêtes/mois",
+        "support": "Support email"
+      }
+    },
+    "premium": {
+      "name": "Premium",
+      "features": {
+        "api": "Accès API complet",
+        "requests": "10 000 requêtes/mois",
+        "support": "Support prioritaire",
+        "webhooks": "Webhooks personnalisés"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "features": {
+        "api": "Accès API illimité",
+        "requests": "Requêtes illimitées",
+        "support": "Support dédié",
+        "sla": "SLA garanti",
+        "integrations": "Intégrations custom"
+      }
+    }
+  },
+  "home": {
+    "title": "Bienvenue sur votre SaaS",
+    "subtitle": "Une base simple pour démarrer votre projet avec authentification et abonnements",
+    "welcomeBack": "Que souhaitez-vous faire aujourd'hui ?",
+    "getStarted": "Commencer",
+    "login": "Connexion"
+  },
+  "footer": {
+    "product": "Produit",
+    "pricing": "Tarifs",
+    "features": "Fonctionnalités",
+    "documentation": "Documentation",
+    "company": "Entreprise",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contact",
+    "legal": "Légal",
+    "terms": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "cookies": "Paramètres des cookies",
+    "rights": "Tous droits réservés."
+  },
+  "cookies": {
+    "title": "Paramètres des cookies",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience sur notre site.",
+    "learnMore": "En savoir plus",
+    "necessary": "Cookies nécessaires",
+    "necessaryDesc": "Essentiels au bon fonctionnement du site",
+    "analytics": "Cookies analytiques",
+    "analyticsDesc": "Nous aident à améliorer notre service",
+    "marketing": "Cookies marketing",
+    "marketingDesc": "Utilisés pour personnaliser les publicités",
+    "acceptAll": "Tout accepter",
+    "rejectAll": "Tout refuser",
+    "customize": "Personnaliser",
+    "savePreferences": "Enregistrer les préférences",
+    "minimize": "Réduire",
+    "settings": "Paramètres des cookies"
+  }
+}

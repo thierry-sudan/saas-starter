@@ -1,0 +1,160 @@
+{
+  "common": {
+    "hello": "Hello",
+    "welcome": "Welcome",
+    "logout": "Logout",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "saving": "Saving...",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "firstName": "First Name",
+    "lastName": "Last Name"
+  },
+  "currency": {
+    "select": "Select currency",
+    "current": "Currency",
+    "eur": "Euro (€)",
+    "usd": "Dollar ($)",
+    "locked": "Currency locked after subscription"
+  },
+  "nav": {
+    "myProfile": "My Profile",
+    "myDashboard": "My Dashboard"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "loginTitle": "Login",
+    "signupTitle": "Sign Up",
+    "loginSubtitle": "Log in to your account",
+    "signupSubtitle": "Create your account for free",
+    "signIn": "Sign In",
+    "createAccount": "Create my account",
+    "noAccount": "No account yet?",
+    "hasAccount": "Already have an account?",
+    "orContinueWith": "Or continue with",
+    "google": "Google",
+    "loggingIn": "Logging in...",
+    "creating": "Creating...",
+    "passwordMismatch": "Passwords do not match",
+    "passwordTooShort": "Password must be at least 6 characters",
+    "loginError": "Login error",
+    "signupError": "Sign up error",
+    "googleError": "Error logging in with Google"
+  },
+  "profile": {
+    "title": "My Profile",
+    "personalInfo": "Personal Information",
+    "subscription": "Subscription",
+    "currentPlan": "Current plan",
+    "status": "Status",
+    "price": "Price",
+    "choosePlan": "Choose a plan",
+    "manageSubscription": "Manage my subscription",
+    "apiKey": "API Key",
+    "apiKeyDescription": "Use this key to access the API",
+    "notProvided": "Not provided",
+    "googleSyncMessage": "This information is synchronized with your Google account and cannot be modified here.",
+    "profileUpdated": "Profile updated successfully",
+    "updateError": "Error updating profile",
+    "perMonth": "/month",
+    "free": "Free"
+  },
+  "subscription": {
+    "status": {
+      "active": "✅ Active",
+      "canceled": "❌ Canceled",
+      "past_due": "⚠️ Payment overdue",
+      "trialing": "🎁 Trial period"
+    },
+    "plans": {
+      "free": "Free",
+      "simple": "Simple",
+      "premium": "Premium",
+      "pro": "Pro"
+    }
+  },
+  "dashboard": {
+    "title": "My Dashboard",
+    "currentPlan": "Current plan:",
+    "subscriptionPlans": "Subscription plans",
+    "currentPlanBadge": "Current plan",
+    "subscribe": "Subscribe",
+    "apiKey": "API Key",
+    "apiKeyDescription": "Use this key to access the API"
+  },
+  "plans": {
+    "simple": {
+      "name": "Simple",
+      "features": {
+        "api": "Basic API access",
+        "requests": "1,000 requests/month",
+        "support": "Email support"
+      }
+    },
+    "premium": {
+      "name": "Premium",
+      "features": {
+        "api": "Full API access",
+        "requests": "10,000 requests/month",
+        "support": "Priority support",
+        "webhooks": "Custom webhooks"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "features": {
+        "api": "Unlimited API access",
+        "requests": "Unlimited requests",
+        "support": "Dedicated support",
+        "sla": "Guaranteed SLA",
+        "integrations": "Custom integrations"
+      }
+    }
+  },
+  "home": {
+    "title": "Welcome to your SaaS",
+    "subtitle": "A simple base to start your project with authentication and subscriptions",
+    "welcomeBack": "What would you like to do today?",
+    "getStarted": "Get Started",
+    "login": "Login"
+  },
+  "footer": {
+    "product": "Product",
+    "pricing": "Pricing",
+    "features": "Features",
+    "documentation": "Documentation",
+    "company": "Company",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Settings",
+    "rights": "All rights reserved."
+  },
+  "cookies": {
+    "title": "Cookie Settings",
+    "description": "We use cookies to improve your experience on our site.",
+    "learnMore": "Learn more",
+    "necessary": "Necessary cookies",
+    "necessaryDesc": "Essential for the site to function properly",
+    "analytics": "Analytics cookies",
+    "analyticsDesc": "Help us improve our service",
+    "marketing": "Marketing cookies",
+    "marketingDesc": "Used to personalize ads",
+    "acceptAll": "Accept All",
+    "rejectAll": "Reject All",
+    "customize": "Customize",
+    "savePreferences": "Save Preferences",
+    "minimize": "Minimize",
+    "settings": "Cookie settings"
+  }
+}
