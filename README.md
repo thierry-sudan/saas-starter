@@ -160,9 +160,9 @@ This project is under MIT license. See the [LICENSE](LICENSE) file for details.
 
 ## 📧 Support
 
-- 🐛 [Report a bug](https://github.com/YOUR-USERNAME/saas-starter/issues/new?template=bug_report.md)
-- 💡 [Suggest a feature](https://github.com/YOUR-USERNAME/saas-starter/issues/new?template=feature_request.md)
-- 💬 [Discussions](https://github.com/YOUR-USERNAME/saas-starter/discussions)
+- 🐛 [Report a bug](https://github.com/thierry-sudan/saas-starter/issues/new?template=bug_report.md)
+- 💡 [Suggest a feature](https://github.com/thierry-sudan/saas-starter/issues/new?template=feature_request.md)
+- 💬 [Discussions](https://github.com/thierry-sudan/saas-starter/discussions)
 
 ---
 
