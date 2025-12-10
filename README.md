@@ -5,7 +5,6 @@
 
 Ultra-simple foundation to create a SaaS that give API token with authentication and subscription management.
 
-![SaaS Starter Demo](SOON)
 
 ## ✨ Features
 
